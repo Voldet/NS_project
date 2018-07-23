@@ -36,8 +36,10 @@ labels, values = zip(*counts.items())
 # Prepare for bar plot by evenly spacing values 
 # within a given interval using numpy arrange()
 indexes = np.arange(len(labels))
-width = 1
-plt.bar(indexes, values, width)
+width = .9
+fig = plt.figure()
+ax = plt.subplot(111)
+ax.bar(indexes, values, width)
 plt.xticks(indexes + width * 0.5, labels)
 plt.show()
 

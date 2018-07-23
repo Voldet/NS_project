@@ -19,15 +19,18 @@ node_a = graph.Node("A",custom_property=1)
 
 # Create a node and then add the custom_property
 node_b = graph.Node("B")
+node_c = graph.Node('C')
 node_b.property['custom_property']=2
 
 # Add the node to the stream
 # you can also do it one by one or via a list
 # l = [node_a,node_b]
 # stream.add_node(*l)
-stream.add_node(node_a,node_b)
+stream.add_node(node_a,node_b,node_c)
 
 # Create edge 
 # You can also use the id of the node :  graph.Edge("A","B",custom_property="hello")
 edge_ab = graph.Edge(node_a,node_b,custom_property="hello")
+edge_cb = graph.Edge(node_c,node_b,custom_property = 'HHHHHHHHH')
 stream.add_edge(edge_ab)
+stream.add_edge(edge_cb)

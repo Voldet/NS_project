@@ -10,15 +10,18 @@ import networkx as nx
 from bokeh.io import show, output_file
 from bokeh.models import Plot, Range1d, MultiLine, Circle, HoverTool, TapTool, BoxSelectTool
 from bokeh.models.graphs import from_networkx, NodesAndLinkedEdges, EdgesAndLinkedNodes
-from bokeh.palettes import Spectral4
+# from bokeh.palettes import Spectral4
 from bokeh.plotting import figure
 
-G=nx.florentine_families_graph()
+Spectral4 = ["#2b83ba", "#abdda4", "#fdae61", "#d7191c"]
+
+
+G=nx.karate_club_graph()
 graph = from_networkx(G, nx.spring_layout, scale=1, center=(0,0))
 
 
 ## Simple styple
-plot = figure(title="Bokeh Networkx Integration Demonstration", x_range=(-1.1,1.1), y_range=(-1.1,1.1),
+plot = figure(title="Bokeh Networkx Integration Demonstration", x_range=(-2,2), y_range=(-2, 2),
               tools="", toolbar_location=None)
 
 plot.renderers.append(graph)

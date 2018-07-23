@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>23/07/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="Blalock H 1967" label="Blalock H 1967" />
+      <node id="Denton Nancy A 1993" label="Denton Nancy A 1993" />
+      <node id="Massey DS 1985" label="Massey DS 1985" />
+      <node id="Meyer DS 1996" label="Meyer DS 1996" />
+      <node id="Mccarthy JD 1996" label="Mccarthy JD 1996" />
+      <node id="Meyer JW 1977" label="Meyer JW 1977" />
+      <node id="Dimaggio PJ 1983" label="Dimaggio PJ 1983" />
+      <node id="Wilson W J 1987" label="Wilson W J 1987" />
+      <node id="Mcadam Douglas 1982" label="Mcadam Douglas 1982" />
+      <node id="Gamson W 1990" label="Gamson W 1990" />
+      <node id="Mcadam D 1983" label="Mcadam D 1983" />
+      <node id="Gamson William 1975" label="Gamson William 1975" />
+      <node id="Tilly C 1978" label="Tilly C 1978" />
+      <node id="Mccarthy JD 1977" label="Mccarthy JD 1977" />
+      <node id="Morris Aldon D 1984" label="Morris Aldon D 1984" />
+      <node id="Swidler A 1986" label="Swidler A 1986" />
+      <node id="Jenkins JC 1986" label="Jenkins JC 1986" />
+      <node id="Piven FF 1977" label="Piven FF 1977" />
+      <node id="Berger PL 1966" label="Berger PL 1966" />
+      <node id="Massey DS 1988" label="Massey DS 1988" />
+      <node id="Hirschi T 1969" label="Hirschi T 1969" />
+      <node id="Granovetms 1973" label="Granovetms 1973" />
+      <node id="Jenkins JC 1977" label="Jenkins JC 1977" />
+      <node id="Shaw C R 1942" label="Shaw C R 1942" />
+      <node id="Jencks C 1990" label="Jencks C 1990" />
+      <node id="Sampson RJ 1989" label="Sampson RJ 1989" />
+      <node id="Massey DS 1987" label="Massey DS 1987" />
+      <node id="Mcadam D 1982" label="Mcadam D 1982" />
+      <node id="Mcadam Doug 1996" label="Mcadam Doug 1996" />
+      <node id="Wilson W J 1978" label="Wilson W J 1978" />
+      <node id="Shaw C 1969" label="Shaw C 1969" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Blalock H 1967" target="Denton Nancy A 1993" />
+      <edge id="1" source="Massey DS 1985" target="Denton Nancy A 1993" />
+      <edge id="2" source="Meyer DS 1996" target="Mccarthy JD 1996" />
+      <edge id="3" source="Meyer JW 1977" target="Dimaggio PJ 1983" />
+      <edge id="4" source="Wilson W J 1987" target="Denton Nancy A 1993" />
+      <edge id="5" source="Mcadam Douglas 1982" target="Mccarthy JD 1996" />
+      <edge id="6" source="Mcadam Douglas 1982" target="Gamson W 1990" />
+      <edge id="7" source="Mcadam Douglas 1982" target="Dimaggio PJ 1983" />
+      <edge id="8" source="Gamson W 1990" target="Mccarthy JD 1996" />
+      <edge id="9" source="Mcadam D 1983" target="Mccarthy JD 1996" />
+      <edge id="10" source="Gamson William 1975" target="Tilly C 1978" />
+      <edge id="11" source="Gamson William 1975" target="Mccarthy JD 1996" />
+      <edge id="12" source="Gamson William 1975" target="Mccarthy JD 1977" />
+      <edge id="13" source="Tilly C 1978" target="Mcadam Douglas 1982" />
+      <edge id="14" source="Tilly C 1978" target="Dimaggio PJ 1983" />
+      <edge id="15" source="Tilly C 1978" target="Mccarthy JD 1996" />
+      <edge id="16" source="Tilly C 1978" target="Gamson W 1990" />
+      <edge id="17" source="Mccarthy JD 1977" target="Mccarthy JD 1996" />
+      <edge id="18" source="Mccarthy JD 1977" target="Gamson W 1990" />
+      <edge id="19" source="Mccarthy JD 1977" target="Mcadam Douglas 1982" />
+      <edge id="20" source="Mccarthy JD 1977" target="Tilly C 1978" />
+      <edge id="21" source="Morris Aldon D 1984" target="Gamson W 1990" />
+      <edge id="22" source="Swidler A 1986" target="Wilson W J 1987" />
+      <edge id="23" source="Jenkins JC 1986" target="Mccarthy JD 1996" />
+      <edge id="24" source="Jenkins JC 1986" target="Gamson W 1990" />
+      <edge id="25" source="Piven FF 1977" target="Mcadam Douglas 1982" />
+      <edge id="26" source="Piven FF 1977" target="Tilly C 1978" />
+      <edge id="27" source="Piven FF 1977" target="Mccarthy JD 1996" />
+      <edge id="28" source="Piven FF 1977" target="Gamson W 1990" />
+      <edge id="29" source="Piven FF 1977" target="Mccarthy JD 1977" />
+      <edge id="30" source="Berger PL 1966" target="Dimaggio PJ 1983" />
+      <edge id="31" source="Berger PL 1966" target="Meyer JW 1977" />
+      <edge id="32" source="Massey DS 1988" target="Denton Nancy A 1993" />
+      <edge id="33" source="Hirschi T 1969" target="Granovetms 1973" />
+      <edge id="34" source="Jenkins JC 1977" target="Mccarthy JD 1996" />
+      <edge id="35" source="Jenkins JC 1977" target="Mcadam Douglas 1982" />
+      <edge id="36" source="Jenkins JC 1977" target="Tilly C 1978" />
+      <edge id="37" source="Shaw C R 1942" target="Wilson W J 1987" />
+      <edge id="38" source="Shaw C R 1942" target="Denton Nancy A 1993" />
+      <edge id="39" source="Jencks C 1990" target="Denton Nancy A 1993" />
+      <edge id="40" source="Sampson RJ 1989" target="Denton Nancy A 1993" />
+      <edge id="41" source="Massey DS 1987" target="Denton Nancy A 1993" />
+      <edge id="42" source="Mcadam D 1982" target="Mccarthy JD 1996" />
+      <edge id="43" source="Mcadam D 1982" target="Gamson W 1990" />
+      <edge id="44" source="Mcadam Doug 1996" target="Mccarthy JD 1996" />
+      <edge id="45" source="Wilson W J 1978" target="Wilson W J 1987" />
+      <edge id="46" source="Shaw C 1969" target="Wilson W J 1987" />
+    </edges>
+  </graph>
+</gexf>

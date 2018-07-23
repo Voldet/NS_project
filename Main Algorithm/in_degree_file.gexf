@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>23/07/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="Krysan M 2002" label="Krysan M 2002" />
+      <node id="Charles CZ 2003" label="Charles CZ 2003" />
+      <node id="Logan JR 2004" label="Logan JR 2004" />
+      <node id="Emerson MO 2001" label="Emerson MO 2001" />
+      <node id="Bobo L 1996" label="Bobo L 1996" />
+      <node id="Farley R 1994" label="Farley R 1994" />
+      <node id="Blalock H 1967" label="Blalock H 1967" />
+      <node id="Putnam R D 2000" label="Putnam R D 2000" />
+      <node id="Sampson RJ 2005" label="Sampson RJ 2005" />
+      <node id="Meyer DS 2004" label="Meyer DS 2004" />
+      <node id="Cutler DM 1997" label="Cutler DM 1997" />
+      <node id="Logan JR 1996" label="Logan JR 1996" />
+      <node id="Frey WH 1996" label="Frey WH 1996" />
+      <node id="Yinger John 1995" label="Yinger John 1995" />
+      <node id="Denton Nancy A 1993" label="Denton Nancy A 1993" />
+      <node id="Massey DS 1985" label="Massey DS 1985" />
+      <node id="Meyer DS 1996" label="Meyer DS 1996" />
+      <node id="Earl J 2004" label="Earl J 2004" />
+      <node id="Cress DM 2000" label="Cress DM 2000" />
+      <node id="Goldstone Jack A 2001" label="Goldstone Jack A 2001" />
+      <node id="Fligstein N 1990" label="Fligstein N 1990" />
+      <node id="Kalev A 2006" label="Kalev A 2006" />
+      <node id="Fligstein N 2001" label="Fligstein N 2001" />
+      <node id="King BG 2007" label="King BG 2007" />
+      <node id="Dimaggio PJ 1983" label="Dimaggio PJ 1983" />
+      <node id="Meyer JW 1977" label="Meyer JW 1977" />
+      <node id="Anderson E 1999" label="Anderson E 1999" />
+      <node id="Tilly C 1998" label="Tilly C 1998" />
+      <node id="Elliott JR 2001" label="Elliott JR 2001" />
+      <node id="Wilson W J 1987" label="Wilson W J 1987" />
+      <node id="Gamson W A 1992" label="Gamson W A 1992" />
+      <node id="Benford RD 2000" label="Benford RD 2000" />
+      <node id="Mcadam Douglas 1982" label="Mcadam Douglas 1982" />
+      <node id="Mcadam D 2001" label="Mcadam D 2001" />
+      <node id="Alba RD 2003" label="Alba RD 2003" />
+      <node id="Portes A 1993" label="Portes A 1993" />
+      <node id="Isaac L 2002" label="Isaac L 2002" />
+      <node id="Ganz M 2000" label="Ganz M 2000" />
+      <node id="Mccammon HJ 2001" label="Mccammon HJ 2001" />
+      <node id="Meyer DS 1994" label="Meyer DS 1994" />
+      <node id="Benford RD 1993" label="Benford RD 1993" />
+      <node id="Snow David A 1988" label="Snow David A 1988" />
+      <node id="Mcadam D 1983" label="Mcadam D 1983" />
+      <node id="Gamson William 1975" label="Gamson William 1975" />
+      <node id="Schurman R 2004" label="Schurman R 2004" />
+      <node id="Taylor V 1989" label="Taylor V 1989" />
+      <node id="Baumgartner Frank R 1993" label="Baumgartner Frank R 1993" />
+      <node id="Morris Aldon D 1984" label="Morris Aldon D 1984" />
+      <node id="Mccarthy JD 1977" label="Mccarthy JD 1977" />
+      <node id="Swidler A 1986" label="Swidler A 1986" />
+      <node id="Bourdieu P 1984" label="Bourdieu P 1984" />
+      <node id="Edelman LB 1992" label="Edelman LB 1992" />
+      <node id="Friedland R 1991" label="Friedland R 1991" />
+      <node id="Jenkins JC 1986" label="Jenkins JC 1986" />
+      <node id="Reskin BF 2003" label="Reskin BF 2003" />
+      <node id="Anderson CD 1995" label="Anderson CD 1995" />
+      <node id="Suchman MC 1995" label="Suchman MC 1995" />
+      <node id="Tomaskovic-devey D 1993" label="Tomaskovic-devey D 1993" />
+      <node id="Raudenbush SW 2002" label="Raudenbush SW 2002" />
+      <node id="Davis GF 2005" label="Davis GF 2005" />
+      <node id="Van Dyke N 2004" label="Van Dyke N 2004" />
+      <node id="Mccarthy JD 1996" label="Mccarthy JD 1996" />
+      <node id="Mcadam D 1996" label="Mcadam D 1996" />
+      <node id="Tilly Charles 1995" label="Tilly Charles 1995" />
+      <node id="Tilly C 1978" label="Tilly C 1978" />
+      <node id="Piven FF 1977" label="Piven FF 1977" />
+      <node id="Massey DS 1988" label="Massey DS 1988" />
+      <node id="Sampson RJ 1997" label="Sampson RJ 1997" />
+      <node id="Petersen T 2004" label="Petersen T 2004" />
+      <node id="Reskin BF 2000" label="Reskin BF 2000" />
+      <node id="Edelman LB 1999" label="Edelman LB 1999" />
+      <node id="Dobbin F 1998" label="Dobbin F 1998" />
+      <node id="Dobbin F 1993" label="Dobbin F 1993" />
+      <node id="Edelman LB 1990" label="Edelman LB 1990" />
+      <node id="King BG 2005" label="King BG 2005" />
+      <node id="Koopmans R 2004" label="Koopmans R 2004" />
+      <node id="Clemens ES 2004" label="Clemens ES 2004" />
+      <node id="Earl J 2003" label="Earl J 2003" />
+      <node id="Oliver PE 2000" label="Oliver PE 2000" />
+      <node id="Oliver PE 1999" label="Oliver PE 1999" />
+      <node id="Gamson W 1990" label="Gamson W 1990" />
+      <node id="Gitlin T 1980" label="Gitlin T 1980" />
+      <node id="Jenkins JC 1977" label="Jenkins JC 1977" />
+      <node id="Sampson RJ 2002" label="Sampson RJ 2002" />
+      <node id="Wooldridge Jeffrey M 2002" label="Wooldridge Jeffrey M 2002" />
+      <node id="Morenoff JD 2001" label="Morenoff JD 2001" />
+      <node id="Sampson RJ 1999" label="Sampson RJ 1999" />
+      <node id="Sampson R 1995" label="Sampson R 1995" />
+      <node id="Shaw C R 1942" label="Shaw C R 1942" />
+      <node id="Ridgeway CL 1997" label="Ridgeway CL 1997" />
+      <node id="Fernandez RM 2005" label="Fernandez RM 2005" />
+      <node id="Gorman EH 2005" label="Gorman EH 2005" />
+      <node id="Petersen T 2000" label="Petersen T 2000" />
+      <node id="Fernandez RM 2000" label="Fernandez RM 2000" />
+      <node id="South SJ 1997" label="South SJ 1997" />
+      <node id="Wilson WJ 1996" label="Wilson WJ 1996" />
+      <node id="Andrews KT 2004" label="Andrews KT 2004" />
+      <node id="Skocpol T 2003" label="Skocpol T 2003" />
+      <node id="Tarrow S 1998" label="Tarrow S 1998" />
+      <node id="Dimaggio P 1997" label="Dimaggio P 1997" />
+      <node id="Voss K 2000" label="Voss K 2000" />
+      <node id="Andrews KT 2005" label="Andrews KT 2005" />
+      <node id="Brulle R J 2000" label="Brulle R J 2000" />
+      <node id="Minkoff DC 1997" label="Minkoff DC 1997" />
+      <node id="Massey DS 1987" label="Massey DS 1987" />
+      <node id="Oliver C 1991" label="Oliver C 1991" />
+      <node id="Amenta E 2005" label="Amenta E 2005" />
+      <node id="Amenta E 1992" label="Amenta E 1992" />
+      <node id="Kanter R M 1977" label="Kanter R M 1977" />
+      <node id="Bielby WT 1986" label="Bielby WT 1986" />
+      <node id="Baron JN 1980" label="Baron JN 1980" />
+      <node id="Jargowsky P 1997" label="Jargowsky P 1997" />
+      <node id="Steinberg MW 1999" label="Steinberg MW 1999" />
+      <node id="Meyer David 1996" label="Meyer David 1996" />
+      <node id="Johnston Hank 1995" label="Johnston Hank 1995" />
+      <node id="Snow DA 1986" label="Snow DA 1986" />
+      <node id="Andrews KT 2001" label="Andrews KT 2001" />
+      <node id="Mcadam D 1982" label="Mcadam D 1982" />
+      <node id="Iceland J 2002" label="Iceland J 2002" />
+      <node id="Wilkes R 2004" label="Wilkes R 2004" />
+      <node id="Mcadam Doug 1996" label="Mcadam Doug 1996" />
+      <node id="Meyer D 1998" label="Meyer D 1998" />
+      <node id="Tarrow Sidney 1994" label="Tarrow Sidney 1994" />
+      <node id="Mcadam D 2002" label="Mcadam D 2002" />
+      <node id="Kriesi H 1995" label="Kriesi H 1995" />
+      <node id="Bursik JR R J 1993" label="Bursik JR R J 1993" />
+      <node id="Minkoff DC 1999" label="Minkoff DC 1999" />
+      <node id="Soule SA 2006" label="Soule SA 2006" />
+      <node id="Reskin BF 1999" label="Reskin BF 1999" />
+      <node id="Reskin BF 1990" label="Reskin BF 1990" />
+      <node id="Charles M 2004" label="Charles M 2004" />
+      <node id="Guthrie D 1999" label="Guthrie D 1999" />
+      <node id="Goodwin J 1999" label="Goodwin J 1999" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Krysan M 2002" target="Charles CZ 2003" />
+      <edge id="1" source="Krysan M 2002" target="Logan JR 2004" />
+      <edge id="2" source="Charles CZ 2003" target="Logan JR 2004" />
+      <edge id="3" source="Emerson MO 2001" target="Charles CZ 2003" />
+      <edge id="4" source="Bobo L 1996" target="Charles CZ 2003" />
+      <edge id="5" source="Farley R 1994" target="Charles CZ 2003" />
+      <edge id="6" source="Farley R 1994" target="Logan JR 2004" />
+      <edge id="7" source="Blalock H 1967" target="Charles CZ 2003" />
+      <edge id="8" source="Blalock H 1967" target="Logan JR 2004" />
+      <edge id="9" source="Putnam R D 2000" target="Sampson RJ 2005" />
+      <edge id="10" source="Putnam R D 2000" target="Meyer DS 2004" />
+      <edge id="11" source="Meyer DS 2004" target="King BG 2007" />
+      <edge id="12" source="Meyer DS 2004" target="Sampson RJ 2005" />
+      <edge id="13" source="Cutler DM 1997" target="Charles CZ 2003" />
+      <edge id="14" source="Logan JR 1996" target="Logan JR 2004" />
+      <edge id="15" source="Logan JR 1996" target="Charles CZ 2003" />
+      <edge id="16" source="Frey WH 1996" target="Logan JR 2004" />
+      <edge id="17" source="Frey WH 1996" target="Charles CZ 2003" />
+      <edge id="18" source="Yinger John 1995" target="Logan JR 2004" />
+      <edge id="19" source="Yinger John 1995" target="Charles CZ 2003" />
+      <edge id="20" source="Denton Nancy A 1993" target="Logan JR 2004" />
+      <edge id="21" source="Denton Nancy A 1993" target="Charles CZ 2003" />
+      <edge id="22" source="Massey DS 1985" target="Logan JR 2004" />
+      <edge id="23" source="Massey DS 1985" target="Charles CZ 2003" />
+      <edge id="24" source="Meyer DS 1996" target="Meyer DS 2004" />
+      <edge id="25" source="Meyer DS 1996" target="Earl J 2004" />
+      <edge id="26" source="Meyer DS 1996" target="Cress DM 2000" />
+      <edge id="27" source="Earl J 2004" target="King BG 2007" />
+      <edge id="28" source="Earl J 2004" target="Meyer DS 2004" />
+      <edge id="29" source="Cress DM 2000" target="King BG 2007" />
+      <edge id="30" source="Cress DM 2000" target="Meyer DS 2004" />
+      <edge id="31" source="Cress DM 2000" target="Earl J 2004" />
+      <edge id="32" source="Cress DM 2000" target="Mcadam D 2001" />
+      <edge id="33" source="Cress DM 2000" target="Benford RD 2000" />
+      <edge id="34" source="Goldstone Jack A 2001" target="Meyer DS 2004" />
+      <edge id="35" source="Goldstone Jack A 2001" target="Earl J 2004" />
+      <edge id="36" source="Fligstein N 1990" target="Kalev A 2006" />
+      <edge id="37" source="Fligstein N 2001" target="King BG 2007" />
+      <edge id="38" source="Dimaggio PJ 1983" target="Kalev A 2006" />
+      <edge id="39" source="Dimaggio PJ 1983" target="Meyer DS 2004" />
+      <edge id="40" source="Meyer JW 1977" target="Kalev A 2006" />
+      <edge id="41" source="Anderson E 1999" target="Sampson RJ 2005" />
+      <edge id="42" source="Tilly C 1998" target="Kalev A 2006" />
+      <edge id="43" source="Elliott JR 2001" target="Kalev A 2006" />
+      <edge id="44" source="Wilson W J 1987" target="Sampson RJ 2005" />
+      <edge id="45" source="Wilson W J 1987" target="Charles CZ 2003" />
+      <edge id="46" source="Wilson W J 1987" target="Logan JR 2004" />
+      <edge id="47" source="Gamson W A 1992" target="Benford RD 2000" />
+      <edge id="48" source="Benford RD 2000" target="Earl J 2004" />
+      <edge id="49" source="Mcadam Douglas 1982" target="Mcadam D 2001" />
+      <edge id="50" source="Mcadam Douglas 1982" target="Meyer DS 2004" />
+      <edge id="51" source="Mcadam Douglas 1982" target="Earl J 2004" />
+      <edge id="52" source="Mcadam Douglas 1982" target="Cress DM 2000" />
+      <edge id="53" source="Mcadam Douglas 1982" target="Benford RD 2000" />
+      <edge id="54" source="Mcadam D 2001" target="Meyer DS 2004" />
+      <edge id="55" source="Mcadam D 2001" target="Earl J 2004" />
+      <edge id="56" source="Alba RD 2003" target="Charles CZ 2003" />
+      <edge id="57" source="Alba RD 2003" target="Logan JR 2004" />
+      <edge id="58" source="Portes A 1993" target="Charles CZ 2003" />
+      <edge id="59" source="Isaac L 2002" target="Meyer DS 2004" />
+      <edge id="60" source="Isaac L 2002" target="Earl J 2004" />
+      <edge id="61" source="Ganz M 2000" target="Mcadam D 2001" />
+      <edge id="62" source="Ganz M 2000" target="Meyer DS 2004" />
+      <edge id="63" source="Mccammon HJ 2001" target="Meyer DS 2004" />
+      <edge id="64" source="Mccammon HJ 2001" target="Earl J 2004" />
+      <edge id="65" source="Meyer DS 1994" target="Mcadam D 2001" />
+      <edge id="66" source="Benford RD 1993" target="Benford RD 2000" />
+      <edge id="67" source="Snow David A 1988" target="Benford RD 2000" />
+      <edge id="68" source="Mcadam D 1983" target="Earl J 2004" />
+      <edge id="69" source="Mcadam D 1983" target="Meyer DS 2004" />
+      <edge id="70" source="Mcadam D 1983" target="Cress DM 2000" />
+      <edge id="71" source="Gamson William 1975" target="Earl J 2004" />
+      <edge id="72" source="Gamson William 1975" target="Cress DM 2000" />
+      <edge id="73" source="Schurman R 2004" target="King BG 2007" />
+      <edge id="74" source="Schurman R 2004" target="Meyer DS 2004" />
+      <edge id="75" source="Taylor V 1989" target="Meyer DS 2004" />
+      <edge id="76" source="Taylor V 1989" target="Earl J 2004" />
+      <edge id="77" source="Baumgartner Frank R 1993" target="Meyer DS 2004" />
+      <edge id="78" source="Baumgartner Frank R 1993" target="Earl J 2004" />
+      <edge id="79" source="Baumgartner Frank R 1993" target="Cress DM 2000" />
+      <edge id="80" source="Morris Aldon D 1984" target="Mcadam D 2001" />
+      <edge id="81" source="Morris Aldon D 1984" target="Meyer DS 2004" />
+      <edge id="82" source="Morris Aldon D 1984" target="Earl J 2004" />
+      <edge id="83" source="Morris Aldon D 1984" target="Cress DM 2000" />
+      <edge id="84" source="Mccarthy JD 1977" target="Meyer DS 2004" />
+      <edge id="85" source="Mccarthy JD 1977" target="Earl J 2004" />
+      <edge id="86" source="Mccarthy JD 1977" target="Mcadam D 2001" />
+      <edge id="87" source="Mccarthy JD 1977" target="Cress DM 2000" />
+      <edge id="88" source="Mccarthy JD 1977" target="Sampson RJ 2005" />
+      <edge id="89" source="Mccarthy JD 1977" target="Benford RD 2000" />
+      <edge id="90" source="Swidler A 1986" target="Earl J 2004" />
+      <edge id="91" source="Swidler A 1986" target="Benford RD 2000" />
+      <edge id="92" source="Bourdieu P 1984" target="Benford RD 2000" />
+      <edge id="93" source="Edelman LB 1992" target="Kalev A 2006" />
+      <edge id="94" source="Friedland R 1991" target="Mcadam D 2001" />
+      <edge id="95" source="Friedland R 1991" target="Benford RD 2000" />
+      <edge id="96" source="Jenkins JC 1986" target="Mcadam D 2001" />
+      <edge id="97" source="Jenkins JC 1986" target="Meyer DS 2004" />
+      <edge id="98" source="Jenkins JC 1986" target="Earl J 2004" />
+      <edge id="99" source="Jenkins JC 1986" target="Cress DM 2000" />
+      <edge id="100" source="Reskin BF 2003" target="Kalev A 2006" />
+      <edge id="101" source="Anderson CD 1995" target="Kalev A 2006" />
+      <edge id="102" source="Suchman MC 1995" target="Kalev A 2006" />
+      <edge id="103" source="Tomaskovic-devey D 1993" target="Kalev A 2006" />
+      <edge id="104" source="Raudenbush SW 2002" target="Sampson RJ 2005" />
+      <edge id="105" source="Davis GF 2005" target="King BG 2007" />
+      <edge id="106" source="Van Dyke N 2004" target="King BG 2007" />
+      <edge id="107" source="Van Dyke N 2004" target="Earl J 2004" />
+      <edge id="108" source="Van Dyke N 2004" target="Meyer DS 2004" />
+      <edge id="109" source="Mccarthy JD 1996" target="King BG 2007" />
+      <edge id="110" source="Mccarthy JD 1996" target="Meyer DS 2004" />
+      <edge id="111" source="Mccarthy JD 1996" target="Earl J 2004" />
+      <edge id="112" source="Mccarthy JD 1996" target="Mcadam D 2001" />
+      <edge id="113" source="Mccarthy JD 1996" target="Cress DM 2000" />
+      <edge id="114" source="Mccarthy JD 1996" target="Sampson RJ 2005" />
+      <edge id="115" source="Mcadam D 1996" target="Meyer DS 2004" />
+      <edge id="116" source="Tilly Charles 1995" target="Meyer DS 2004" />
+      <edge id="117" source="Tilly Charles 1995" target="Mcadam D 2001" />
+      <edge id="118" source="Tilly C 1978" target="Meyer DS 2004" />
+      <edge id="119" source="Tilly C 1978" target="Mcadam D 2001" />
+      <edge id="120" source="Tilly C 1978" target="Earl J 2004" />
+      <edge id="121" source="Tilly C 1978" target="King BG 2007" />
+      <edge id="122" source="Tilly C 1978" target="Cress DM 2000" />
+      <edge id="123" source="Piven FF 1977" target="Meyer DS 2004" />
+      <edge id="124" source="Piven FF 1977" target="Mcadam D 2001" />
+      <edge id="125" source="Piven FF 1977" target="Earl J 2004" />
+      <edge id="126" source="Piven FF 1977" target="Cress DM 2000" />
+      <edge id="127" source="Massey DS 1988" target="Charles CZ 2003" />
+      <edge id="128" source="Massey DS 1988" target="Logan JR 2004" />
+      <edge id="129" source="Sampson RJ 1997" target="Sampson RJ 2005" />
+      <edge id="130" source="Petersen T 2004" target="Kalev A 2006" />
+      <edge id="131" source="Reskin BF 2000" target="Kalev A 2006" />
+      <edge id="132" source="Edelman LB 1999" target="Kalev A 2006" />
+      <edge id="133" source="Dobbin F 1998" target="Kalev A 2006" />
+      <edge id="134" source="Dobbin F 1993" target="Kalev A 2006" />
+      <edge id="135" source="Edelman LB 1990" target="Kalev A 2006" />
+      <edge id="136" source="King BG 2005" target="King BG 2007" />
+      <edge id="137" source="Koopmans R 2004" target="King BG 2007" />
+      <edge id="138" source="Clemens ES 2004" target="Meyer DS 2004" />
+      <edge id="139" source="Earl J 2003" target="King BG 2007" />
+      <edge id="140" source="Earl J 2003" target="Meyer DS 2004" />
+      <edge id="141" source="Earl J 2003" target="Earl J 2004" />
+      <edge id="142" source="Oliver PE 2000" target="King BG 2007" />
+      <edge id="143" source="Oliver PE 2000" target="Earl J 2004" />
+      <edge id="144" source="Oliver PE 1999" target="King BG 2007" />
+      <edge id="145" source="Oliver PE 1999" target="Meyer DS 2004" />
+      <edge id="146" source="Oliver PE 1999" target="Earl J 2004" />
+      <edge id="147" source="Oliver PE 1999" target="Sampson RJ 2005" />
+      <edge id="148" source="Gamson W 1990" target="King BG 2007" />
+      <edge id="149" source="Gamson W 1990" target="Meyer DS 2004" />
+      <edge id="150" source="Gamson W 1990" target="Earl J 2004" />
+      <edge id="151" source="Gamson W 1990" target="Mcadam D 2001" />
+      <edge id="152" source="Gamson W 1990" target="Cress DM 2000" />
+      <edge id="153" source="Gamson W 1990" target="Sampson RJ 2005" />
+      <edge id="154" source="Gitlin T 1980" target="Benford RD 2000" />
+      <edge id="155" source="Jenkins JC 1977" target="Meyer DS 2004" />
+      <edge id="156" source="Jenkins JC 1977" target="Earl J 2004" />
+      <edge id="157" source="Jenkins JC 1977" target="Cress DM 2000" />
+      <edge id="158" source="Sampson RJ 2002" target="Sampson RJ 2005" />
+      <edge id="159" source="Sampson RJ 2002" target="Charles CZ 2003" />
+      <edge id="160" source="Sampson RJ 2002" target="Logan JR 2004" />
+      <edge id="161" source="Wooldridge Jeffrey M 2002" target="Sampson RJ 2005" />
+      <edge id="162" source="Morenoff JD 2001" target="Sampson RJ 2005" />
+      <edge id="163" source="Sampson RJ 1999" target="Sampson RJ 2005" />
+      <edge id="164" source="Sampson R 1995" target="Sampson RJ 2005" />
+      <edge id="165" source="Shaw C R 1942" target="Sampson RJ 2005" />
+      <edge id="166" source="Ridgeway CL 1997" target="Kalev A 2006" />
+      <edge id="167" source="Fernandez RM 2005" target="Kalev A 2006" />
+      <edge id="168" source="Gorman EH 2005" target="Kalev A 2006" />
+      <edge id="169" source="Petersen T 2000" target="Kalev A 2006" />
+      <edge id="170" source="Fernandez RM 2000" target="Kalev A 2006" />
+      <edge id="171" source="South SJ 1997" target="Logan JR 2004" />
+      <edge id="172" source="Wilson WJ 1996" target="Charles CZ 2003" />
+      <edge id="173" source="Andrews KT 2004" target="Sampson RJ 2005" />
+      <edge id="174" source="Skocpol T 2003" target="Sampson RJ 2005" />
+      <edge id="175" source="Skocpol T 2003" target="Meyer DS 2004" />
+      <edge id="176" source="Tarrow S 1998" target="Sampson RJ 2005" />
+      <edge id="177" source="Tarrow S 1998" target="Meyer DS 2004" />
+      <edge id="178" source="Tarrow S 1998" target="Benford RD 2000" />
+      <edge id="179" source="Tarrow S 1998" target="Mcadam D 2001" />
+      <edge id="180" source="Tarrow S 1998" target="Earl J 2004" />
+      <edge id="181" source="Tarrow S 1998" target="Cress DM 2000" />
+      <edge id="182" source="Dimaggio P 1997" target="Benford RD 2000" />
+      <edge id="183" source="Voss K 2000" target="Mcadam D 2001" />
+      <edge id="184" source="Voss K 2000" target="Meyer DS 2004" />
+      <edge id="185" source="Voss K 2000" target="Earl J 2004" />
+      <edge id="186" source="Andrews KT 2005" target="King BG 2007" />
+      <edge id="187" source="Brulle R J 2000" target="Meyer DS 2004" />
+      <edge id="188" source="Minkoff DC 1997" target="Meyer DS 2004" />
+      <edge id="189" source="Minkoff DC 1997" target="Earl J 2004" />
+      <edge id="190" source="Minkoff DC 1997" target="Cress DM 2000" />
+      <edge id="191" source="Massey DS 1987" target="Charles CZ 2003" />
+      <edge id="192" source="Oliver C 1991" target="Kalev A 2006" />
+      <edge id="193" source="Amenta E 2005" target="King BG 2007" />
+      <edge id="194" source="Amenta E 1992" target="Meyer DS 2004" />
+      <edge id="195" source="Amenta E 1992" target="Cress DM 2000" />
+      <edge id="196" source="Kanter R M 1977" target="Kalev A 2006" />
+      <edge id="197" source="Bielby WT 1986" target="Kalev A 2006" />
+      <edge id="198" source="Baron JN 1980" target="Kalev A 2006" />
+      <edge id="199" source="Jargowsky P 1997" target="Logan JR 2004" />
+      <edge id="200" source="Steinberg MW 1999" target="Benford RD 2000" />
+      <edge id="201" source="Meyer David 1996" target="Earl J 2004" />
+      <edge id="202" source="Meyer David 1996" target="Meyer DS 2004" />
+      <edge id="203" source="Johnston Hank 1995" target="Benford RD 2000" />
+      <edge id="204" source="Snow DA 1986" target="Benford RD 2000" />
+      <edge id="205" source="Snow DA 1986" target="Meyer DS 2004" />
+      <edge id="206" source="Snow DA 1986" target="Cress DM 2000" />
+      <edge id="207" source="Andrews KT 2001" target="Meyer DS 2004" />
+      <edge id="208" source="Andrews KT 2001" target="Earl J 2004" />
+      <edge id="209" source="Mcadam D 1982" target="Benford RD 2000" />
+      <edge id="210" source="Mcadam D 1982" target="Meyer DS 2004" />
+      <edge id="211" source="Mcadam D 1982" target="Earl J 2004" />
+      <edge id="212" source="Mcadam D 1982" target="Cress DM 2000" />
+      <edge id="213" source="Iceland J 2002" target="Charles CZ 2003" />
+      <edge id="214" source="Wilkes R 2004" target="Logan JR 2004" />
+      <edge id="215" source="Mcadam Doug 1996" target="Meyer DS 2004" />
+      <edge id="216" source="Mcadam Doug 1996" target="Earl J 2004" />
+      <edge id="217" source="Mcadam Doug 1996" target="Benford RD 2000" />
+      <edge id="218" source="Mcadam Doug 1996" target="Cress DM 2000" />
+      <edge id="219" source="Meyer D 1998" target="Sampson RJ 2005" />
+      <edge id="220" source="Meyer D 1998" target="Mcadam D 2001" />
+      <edge id="221" source="Tarrow Sidney 1994" target="Mcadam D 2001" />
+      <edge id="222" source="Tarrow Sidney 1994" target="Meyer DS 2004" />
+      <edge id="223" source="Mcadam D 2002" target="King BG 2007" />
+      <edge id="224" source="Mcadam D 2002" target="Earl J 2004" />
+      <edge id="225" source="Mcadam D 2002" target="Meyer DS 2004" />
+      <edge id="226" source="Kriesi H 1995" target="Earl J 2004" />
+      <edge id="227" source="Bursik JR R J 1993" target="Sampson RJ 2005" />
+      <edge id="228" source="Minkoff DC 1999" target="Cress DM 2000" />
+      <edge id="229" source="Soule SA 2006" target="King BG 2007" />
+      <edge id="230" source="Reskin BF 1999" target="Kalev A 2006" />
+      <edge id="231" source="Reskin BF 1990" target="Kalev A 2006" />
+      <edge id="232" source="Charles M 2004" target="Kalev A 2006" />
+      <edge id="233" source="Guthrie D 1999" target="Kalev A 2006" />
+      <edge id="234" source="Goodwin J 1999" target="Meyer DS 2004" />
+      <edge id="235" source="Goodwin J 1999" target="Earl J 2004" />
+      <edge id="236" source="Goodwin J 1999" target="Cress DM 2000" />
+      <edge id="237" source="Goodwin J 1999" target="Mcadam D 2001" />
+    </edges>
+  </graph>
+</gexf>
